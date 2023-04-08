@@ -27,6 +27,9 @@ Start the development server by running npm start
 If you would like to contribute to this project, feel free to submit a pull request. All contributions are welcome!
 
 <h2>TODO</h2>
-Code optimization
-Improving the layout
-Tests
+<ul>
+    <li>Responsive design</li>
+    <li>Code optimization</li>
+    <li>Improving the layout</li>
+    <li>Tests</li>
+</ul>
