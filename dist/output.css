@@ -752,6 +752,10 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+  html {
+    font-size: small;
+  }
+
   .box .spinner-container {
     -webkit-transform: scale(.50, .50);
             transform: scale(.50, .50);
@@ -759,6 +763,10 @@ body {
 }
 
 @media screen and (max-width: 400px) {
+  html {
+    font-size: smaller;
+  }
+
   .box .spinner-container {
     -webkit-transform: scale(.40, .40);
             transform: scale(.40, .40);
